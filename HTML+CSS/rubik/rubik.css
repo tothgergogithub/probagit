@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    color: darkslateblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    margin: 10px;
+    
+}
+header{
+    height: 70px;
+    background-image:url(kocka.png) ;
+    background-repeat: repeat;
+    background-size: 5%;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.bekezdes{
+    text-indent: 15pt;
+}
+.kep{
+   float: left;
+   width: 150pt;
+   margin: 15px;
+
+}

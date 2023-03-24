@@ -1,0 +1,58 @@
+
+
+h1{
+ color:RGB(90,40,5); 
+  font-family:Arial, Helvetica, sans-serif ;
+  font-size: xx-large;
+}
+.leiras{
+    color:chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.idezet{
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+.hivatkozasok {
+    color: RGB(160, 95, 5);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger ;
+}
+.cim{
+    color: rgb(90,40,5);
+    font-family:Magyar Script, Lucida Handwriting, cursive; 
+    font-size: 60pt;
+}
+.vers{
+    color:rgb(90,40,5) ;
+    font-family:Magyar Script, Lucida Handwriting, cursive;
+    font-size: 24pt;
+} 
+.cim2{
+    color:rgb(90,40,5) ;
+    font-family:Magyar Script, Lucida Handwriting, cursive;
+    font-size: 60pt;
+
+}  
+.vers2{
+    color:rgb(90,40,5) ;
+    font-family: Magyar Script, Lucida Handwriting, cursive;
+    font-size: 24pt;
+
+}
+.cim3{
+    color:rgb(90,40,5) ;
+    font-family: Magyar Script, Lucida Handwriting, cursive ;
+    font-size: 60pt;
+
+}
+.vers3{
+    color:rgb(90,40,5) ;
+    font-family:  Magyar Script, Lucida Handwriting, cursive;
+    font-size: 24pt;
+    
+}
+
+    

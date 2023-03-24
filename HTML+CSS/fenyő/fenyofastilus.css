@@ -1,0 +1,21 @@
+body{
+    background-image: url(forest.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: darkslategray;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.szoveg{
+    font-size: 14pt;
+
+}
+.ismerteto{
+    font-family: sans-serif;
+    color: darkslategray;
+    font-size: 14pt;
+
+}
